@@ -2,7 +2,7 @@
 
 **Institutional Affiliation:** Technical University of Cluj-Napoca (UTCN)  
 **Faculty:** Faculty of Automation and Computer Science
-**Specialization:** Automation and Applied Informatics
+**Specialization:** Automation and Applied Informatics/n
 **Authors:** Bozomală Ștefan & Anechitei Bianca
 
 ---
