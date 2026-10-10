@@ -1,9 +1,9 @@
 # Autonomous Mobile Robot for Indoor Exploration, Mapping, and Goal-Directed Navigation (named WALL-E)
 
-**Institutional Affiliation:** Technical University of Cluj-Napoca (UTCN)  
-**Faculty:** Faculty of Automation and Computer Science
-**Specialization:** Automation and Applied Informatics/n
-**Authors:** Bozomală Ștefan & Anechitei Bianca
+**Institutional Affiliation:** Technical University of Cluj-Napoca (UTCN)          
+**Faculty:** Faculty of Automation and Computer Science                 
+**Specialization:** Automation and Applied Informatics                  
+**Authors:** Bozomală Ștefan & Anechitei Bianca  
 
 ---
 
